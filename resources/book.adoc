@@ -48,3 +48,6 @@ I have many of them to thank for providing some of the information contained in 
 ** https://flexiana.com/2020/07/building-web-services-with-duct-1-part[flexiana - Building Web Services with Duct - Part 1]
 ** https://flexiana.com/2020/07/building-web-services-with-duct-2-part[flexiana - Building Web Services with Duct - Part 2]
 ** https://flexiana.com/2020/07/building-web-services-with-duct-3-part[flexiana - Building Web Services with Duct - Part 3]
+
+=== Talks
+* https://www.youtube.com/watch?v=IVnBW2mT7Po[James Reeves - Productive Duct]

@@ -4,7 +4,8 @@
 
 (defn -main []
   (let [asciidoctor (Asciidoctor$Factory/create)
-        options {"in_place" true
-                 "backend" "html5"
-                 "safe" (.getLevel SafeMode/SAFE)}]
+        options {"backend" "html5"
+                 "safe" (.getLevel SafeMode/UNSAFE)
+                 "to_dir" "./build/"
+                 "to_file" "index.html"}]
     (.convertFile asciidoctor (io/as-file (io/resource "book.adoc")) options)))
