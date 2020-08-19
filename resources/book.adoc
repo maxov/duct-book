@@ -18,6 +18,10 @@ You should feel ready to build complex server-side applications with duct, while
 *Prerequisites*: I assume you have basic knowledge of how to work with Clojure.
 The https://clojure.org/guides/getting_started[Clojure documentation] has a great guide on installing and learning Clojure, as well as links to books and other resources.
 
+=== Contributing
+
+Contributions are very welcome! Please make PRs against the sources at https://github.com/maxov/duct-book[maxov/duct-book].
+
 == Duct: the 10,000 foot view
 
 == Get Help
