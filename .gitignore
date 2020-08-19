@@ -6,3 +6,4 @@ tmp/
 .nrepl-port
 .projectile
 build/
+.dir-locals.el
