@@ -1,0 +1,4 @@
+{:deps
+ {org.asciidoctor/asciidoctorj {:mvn/version "2.4.0"}
+  org.clojure/tools.namespace {:mvn/version "1.0.0"}}
+ :paths ["scripts" "resources"]}
