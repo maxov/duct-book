@@ -21,17 +21,18 @@ The https://clojure.org/guides/getting_started[Clojure documentation] has a grea
 === Contributing
 
 Contributions are very welcome! Please make PRs against the sources at https://github.com/maxov/duct-book[maxov/duct-book].
+Also feel free to make issues if you feel something is missing or could be improved.
 
 == Duct: the 10,000 foot view
 
-== Get Help
+== Resources
+In this section, I list all relevant duct resources I could find.
+I have many of them to thank for providing some of the information contained in this guide.
+
+=== Get Help
 
 There is an active and friendly `#duct` channel on the http://clojurians.net[Clojurians] Slack.
 Feel free to pop in and ask questions!
-
-== Prior Work
-In this section, I list all relevant duct resources I could find.
-I have many of them to thank for providing some of the information contained in this guide.
 
 === Documentation
 * https://github.com/duct-framework/docs/blob/master/GUIDE.rst[duct docs - guide]
