@@ -7,5 +7,6 @@
         options {"backend" "html5"
                  "safe" (.getLevel SafeMode/UNSAFE)
                  "to_dir" "./build/"
-                 "to_file" "index.html"}]
+                 "to_file" "index.html"
+                 "mkdirs" true}]
     (.convertFile asciidoctor (io/as-file (io/resource "book.adoc")) options)))
